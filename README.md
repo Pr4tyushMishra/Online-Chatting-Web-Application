@@ -1,2 +1,8 @@
-# Online-Chatting-Web-Application
-A real-time online chat application featuring user authentication, messaging, and interactive UI using React and Node JS. Integrated Chatengine.io to enable smooth communication between users and ensured seamless message delivery and updates through WebSocket connections. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
